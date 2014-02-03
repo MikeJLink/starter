@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: http://mikelink.org
 permalink: pretty
 markdown: rdiscount
 prose:
